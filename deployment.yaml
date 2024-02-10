@@ -18,7 +18,7 @@ spec:
         app: flaskdemo
     spec:
       containers:
-      - image: jayshankar80/test-docker-image-build:4
+      - image: jayshankar80/test-docker-image-build:1
         name: flaskdemo
         resources: {}
 status: {}
